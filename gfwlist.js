@@ -3750,11 +3750,15 @@ var rules = [
   "|https:\/\/zh.m.wikipedia.org",
   "zh.wikibooks.org*%E7%AA%81%E7%A0%B4%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5",
   ".gov.tw",
+  // ==== clip manual added ====
   // === for slack ===
   "||slack.com",
   "||mixpanel.com",
   "||fastly.net",
   // === end ===
+  // === for s3 ===
+  "||s3.amazonaws.com",
+  // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
   "@@||cwb.gov.tw",
