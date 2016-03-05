@@ -3755,9 +3755,10 @@ var rules = [
   "||slack.com",
   "||mixpanel.com",
   "||fastly.net",
-  // === end ===
   // === for s3 ===
   "||s3.amazonaws.com",
+  // === for arduino ===
+  "||arduino.cc",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
