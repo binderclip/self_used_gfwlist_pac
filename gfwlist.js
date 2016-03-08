@@ -3760,7 +3760,7 @@ var rules = [
   // === for arduino ===
   "||arduino.cc",
   // === for cloudfront ===
-  "||cloudfront.net"
+  "||cloudfront.net",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
