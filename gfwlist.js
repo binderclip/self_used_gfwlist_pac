@@ -3759,6 +3759,8 @@ var rules = [
   "||s3.amazonaws.com",
   // === for arduino ===
   "||arduino.cc",
+  // === for cloudfront ===
+  "||cloudfront.net"
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
