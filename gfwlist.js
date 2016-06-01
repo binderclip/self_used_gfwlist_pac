@@ -3761,10 +3761,12 @@ var rules = [
   "||arduino.cc",
   // === for cloudfront ===
   "||cloudfront.net",
-  // ==== for github ===
+  // === for github ===
   "||githubusercontent.com",
   "||github.com",
   "||github.io",
+  // === for disqus ===
+  "||disquscdn.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
