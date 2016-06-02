@@ -3767,6 +3767,8 @@ var rules = [
   "||github.io",
   // === for disqus ===
   "||disquscdn.com",
+  // === for speakerdeck ===
+  "||speakerdeck.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
