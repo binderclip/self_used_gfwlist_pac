@@ -3773,6 +3773,7 @@ var rules = [
   "||fonts.googleapis.com",
   // === for travis ci ===
   "||travis-ci.com",
+  "||travis-ci.org",
   "||statuspage.io",
   // ==== end ====
   "@@||tax.nat.gov.tw",
