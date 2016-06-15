@@ -3771,6 +3771,9 @@ var rules = [
   "||speakerdeck.com",
   // === for google fonts ===
   "||fonts.googleapis.com",
+  // === for travis ci ===
+  "||travis-ci.com",
+  "||statuspage.io",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
