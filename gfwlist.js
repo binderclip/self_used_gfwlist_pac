@@ -3769,6 +3769,8 @@ var rules = [
   "||disquscdn.com",
   // === for speakerdeck ===
   "||speakerdeck.com",
+  // === for google fonts ===
+  "||fonts.googleapis.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
