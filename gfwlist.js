@@ -3775,6 +3775,8 @@ var rules = [
   "||travis-ci.com",
   "||travis-ci.org",
   "||statuspage.io",
+  // === for httpbin ===
+  "||httpbin.org/",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
