@@ -3781,6 +3781,8 @@ var rules = [
   "||live.com",
   "||live.net",
   "||onenote.com",
+  // === for bandwagon ===
+  "||bandwagonhost.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
