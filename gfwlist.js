@@ -3783,6 +3783,14 @@ var rules = [
   "||onenote.com",
   // === for bandwagon ===
   "||bandwagonhost.com",
+  // === for safaribook ===
+  "||safaribooksonline.com",
+  // === for readthedocs ===
+  "||readthedocs.io",
+  "||unpkg.com",
+  // === for trello ===
+  "||trello.com",
+  "||quantserve.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
