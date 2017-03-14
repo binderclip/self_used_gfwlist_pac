@@ -3791,6 +3791,8 @@ var rules = [
   // === for trello ===
   "||trello.com",
   "||quantserve.com",
+  // === unknow ===
+  "||doubleclick.net",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
