@@ -3793,6 +3793,7 @@ var rules = [
   "||quantserve.com",
   // === unknow ===
   "||doubleclick.net",
+  "||imgur.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
