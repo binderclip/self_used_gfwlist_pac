@@ -3795,6 +3795,7 @@ var rules = [
   "||doubleclick.net",
   "||imgur.com",
   "||sketchapp.com",
+  "||medium.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
