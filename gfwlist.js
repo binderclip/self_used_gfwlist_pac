@@ -3790,7 +3790,13 @@ var rules = [
   "||unpkg.com",
   // === for trello ===
   "||trello.com",
+  "||trellocdn.com",
   "||quantserve.com",
+  // === for google ===
+  "||google.com",
+  "||google.cn",
+  "||google.com.hk",
+  "||google.com.jp",
   // === other ===
   "||doubleclick.net",
   "||imgur.com",
