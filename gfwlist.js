@@ -3802,6 +3802,8 @@ var rules = [
   "||imgur.com",
   "||sketchapp.com",
   "||medium.com",
+  "||tinkercad.com",
+  "||autodesk.com",
   // ==== end ====
   "@@||tax.nat.gov.tw",
   "@@||moe.gov.tw",
