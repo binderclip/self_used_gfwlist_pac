@@ -3803,6 +3803,7 @@ var rules = [
   "||segment.com",
   "||fullstory.com",
   "||intercomcdn.com",
+  "||intercom.io",
   // === other ===
   "||doubleclick.net",
   "||imgur.com",
