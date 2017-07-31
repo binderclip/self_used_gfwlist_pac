@@ -3800,6 +3800,9 @@ var rules = [
   "||google.com.jp",
   // === for notion ===
   "||notion.so",
+  "||segment.com",
+  "||fullstory.com",
+  "||intercomcdn.com",
   // === other ===
   "||doubleclick.net",
   "||imgur.com",
