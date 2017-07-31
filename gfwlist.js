@@ -3753,6 +3753,7 @@ var rules = [
   // ==== clip manual added ====
   // === for slack ===
   "||slack.com",
+  "||slack-edge.com",
   "||mixpanel.com",
   "||fastly.net",
   // === for s3 ===
@@ -3797,6 +3798,8 @@ var rules = [
   "||google.cn",
   "||google.com.hk",
   "||google.com.jp",
+  // === for notion ===
+  "||notion.so",
   // === other ===
   "||doubleclick.net",
   "||imgur.com",
