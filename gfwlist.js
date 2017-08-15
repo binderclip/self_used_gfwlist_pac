@@ -3804,6 +3804,7 @@ var rules = [
   "||fullstory.com",
   "||intercomcdn.com",
   "||intercom.io",
+  "||firebaseio.com",
   // === other ===
   "||doubleclick.net",
   "||imgur.com",
